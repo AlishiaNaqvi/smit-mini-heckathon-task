@@ -1,0 +1,56 @@
+
+
+  .navip {
+    background-color: #5c1399;
+    height: 5rem !important;
+    
+ 
+}
+  
+  .h1 {
+    color: white;
+  }
+  .secondh{
+    background-color: rgb(227, 221, 221);
+   
+}
+
+
+
+
+
+
+
+
+.cont2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 8% ;
+  
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(102, 85, 85, 0.3) 0px 19px 38px, rgba(83, 77, 77, 0.22) 0px 15px 12px;
+
+
+}
+
+.clr{
+  background-color: #5c1399 !important ;
+  color: rgb(136, 119, 119) !important;
+  display: flex;
+}
+.clr:hover{
+  background-color:#5c1399!important;
+  color: rgb(252, 245, 245)!important;
+  border: 2px solid black !important;
+  
+}
+.signbtn{
+  margin-top: 25%  !important;
+}

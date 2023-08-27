@@ -1,0 +1,66 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navip{
+    background-color: #5c1399;
+    height: 5rem !important;
+ 
+}
+
+.navbar-brand{
+    color: white;
+    font-size: x-large;
+}
+
+.secondh{
+    background-color: rgb(227, 221, 221);
+   
+}
+.dash{
+    color: rgb(49, 37, 37);
+}
+.forms{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.cont2{
+   
+    padding: 2% ;
+    width:70%;
+    float: left;
+    margin-left: 5%;
+   
+   
+}
+.pub{
+    background-color: #5c1399 !important ;
+    color: white !important;
+    width: 15% !important;
+  
+}
+.pub:hover{
+    background-color:rgb(209, 137, 137)!important;
+    color: rgb(255, 255, 255)!important;
+    border: 2px solid black !important;
+    
+}
+.myblogs{
+    font-size: xx-large;
+    padding: 5px;
+    font-weight: 600;
+    line-height: 3rem !important;
+
+}
+@media screen and (max-width: 1400px) {
+    .pub {
+        background-color: #5c1399 !important;
+        color: rgb(136, 55, 202) !important;
+        width: 10rem !important ;
+      
+    }
+}
